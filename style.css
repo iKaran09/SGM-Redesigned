@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap');
+
+/* resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+}
+
+/* utility classes */
+.small-bold-text {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.container {
+    max-width: 1320px;
+    margin-inline: auto;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.hover-link {
+    color: aliceblue;
+    transition: 0.2s ease-out;
+}
+
+.hover-link:hover {
+    color: rgb(120, 210, 255);
+}
+
+/* nav bar */
+.main-nav {
+    margin: 20px;
+    justify-content: space-between;
+    background-color: #102331;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.college-logo img {
+    margin-top: 10px;
+    width: 250px;
+}
+
+.nav-links ul {
+    justify-content: end;
+    gap: 40px;
+}
+
+/* header-section */
+.hero {
+    margin: 20px;
+    padding: 30px;
+    justify-content: space-between;
+    background: linear-gradient(90deg, #3265d2 0%, #0c62a3 0%, #00a8ff 100%);
+    border-radius: 20px;
+}
+
+.text-box {
+    color: aliceblue;
+    font-weight: 100;
+    text-align: center;
+}
+
+.text-box h2 {
+    font-size: 30px;
+}
+
+/* cards-section */
+.fac{
+    text-align: center;
+    font-size: 40px;
+    color: #00aaff;
+}
+.card-section{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.card{
+    align-content: center;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 20px;
+    background-color: #102331;
+    color: aliceblue;
+}
+
+.card-img-top{
+    width: 250px;
+    height: 160px;
+    border-radius: 10px;
+}
+
+.card-title {
+    font-size: 23px;
+    margin-top: 18px;
+}
+
+.btn {
+    color:#00aaff;
+} 
+
+.btn:hover {
+    color:#78d2ff;
+} 
+
+/* footer section */
+.footer{
+    background-color: #102331;
+    padding: 10px;
+    color:aliceblue;
+    text-align: center;
+}
+
