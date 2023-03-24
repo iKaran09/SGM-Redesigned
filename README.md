@@ -1,4 +1,4 @@
-#SGM-Redesigned 🎨
+#SGM-Redesigned
 Welcome to my personalized redesign of SGM College Karad website! 🎉 As a student who values individuality and creativity, I wanted to give the college's website a unique and modern twist while improving its user-friendliness.
 
 My redesign project focused on addressing issues that students, faculty, and staff encountered on the old website, while incorporating my own personal style and design preferences. 🎨 I conducted extensive research and gathered feedback to identify areas that needed improvement, and implemented changes accordingly.
